@@ -13,3 +13,4 @@ aws/
 
 # OS junk
 *.log
+.viminfo
