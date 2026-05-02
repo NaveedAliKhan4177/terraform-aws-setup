@@ -4,8 +4,12 @@
 *.tfstate.backup
 crash.log
 
-# Binaries
+# Binaries / downloads
 *.zip
+aws/
 
-# AWS
+# AWS creds
 .aws/
+
+# OS junk
+*.log
